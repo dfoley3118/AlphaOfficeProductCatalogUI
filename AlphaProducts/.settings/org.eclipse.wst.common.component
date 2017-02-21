@@ -2,6 +2,7 @@
     <wb-module deploy-name="AlphaProducts">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/test/src"/>
         <property name="context-root" value="AlphaProducts"/>
         <property name="java-output-path" value="/AlphaProducts/build/classes"/>
     </wb-module>
